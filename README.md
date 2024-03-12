@@ -2,6 +2,15 @@
 
 Welcome to the Guess My Number game! This simple web-based game allows you to guess a number between 1 and 20 and earn points. Each incorrect guess deducts one point, with the highest possible score being 20.
 
+## Preview
+<img width="958" alt="image" src="https://github.com/Fkayensu/guess-my-number-game/assets/66315433/354eaf40-9744-4707-b4ef-2c27c7d03449">
+
+<img width="959" alt="image" src="https://github.com/Fkayensu/guess-my-number-game/assets/66315433/e2ada17f-300b-479b-9f3d-9f1a87cc0efc">
+
+
+<img width="959" alt="image" src="https://github.com/Fkayensu/guess-my-number-game/assets/66315433/eee99609-a733-4341-b5d2-2a8a1258b796">
+
+
 ## Instructions
 
 1. **Guess a Number**: Enter your guess in the input field provided in the left section.
