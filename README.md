@@ -28,4 +28,8 @@ The HTML structure includes a header with the game title and number display, and
 
 ## JavaScript Functionality
 
-The JavaScript code adds interactivity to the game. The randomly generated secret number is compared with the player's guess. The game provides feedback messages, updates the score, and adjusts styling based on the player's performance. The "Again!" button allows for a new round with a new secret number.
+The JavaScript code adds interactivity to the game. The randomly generated secret number is compared with the player's guess. The game provides feedback messages, updates the score, and adjusts styling based on the player's performance.
+
+- `updateHighScore`: Updates the displayed highscore, keeping track of the player's best performance.
+
+The "Again!" button allows for a new round with a new secret number.
