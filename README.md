@@ -30,6 +30,14 @@ The HTML structure includes a header with the game title and number display, and
 
 The JavaScript code adds interactivity to the game. The randomly generated secret number is compared with the player's guess. The game provides feedback messages, updates the score, and adjusts styling based on the player's performance.
 
+- `displayMessage`: Updates the message displayed to the player based on their guess.
+- `updateNumber`: Updates the displayed number in the UI.
+- `updateScore`: Updates the displayed score in the UI.
 - `updateHighScore`: Updates the displayed highscore, keeping track of the player's best performance.
+- `changeBackgroundColor`: Changes the background color of the game based on the player's performance.
+- `changeNumberWidth`: Adjusts the width of the displayed number for visual effect.
 
-The "Again!" button allows for a new round with a new secret number.
+Event Listeners:
+
+- **Check Button**: Checks the player's guess, updates the UI, and handles win or loss scenarios.
+- **Again Button**: Resets the game for a new round.
