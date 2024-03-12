@@ -25,3 +25,7 @@ The HTML structure includes a header with the game title and number display, and
 - The "Press Start 2P" font is imported and applied to the body.
 - Various elements are styled for consistent and visually appealing presentation.
 - Interactive elements, such as buttons, change appearance on hover for user feedback.
+
+## JavaScript Functionality
+
+The JavaScript code adds interactivity to the game. The randomly generated secret number is compared with the player's guess. The game provides feedback messages, updates the score, and adjusts styling based on the player's performance. The "Again!" button allows for a new round with a new secret number.
